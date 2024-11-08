@@ -2,13 +2,16 @@
     session_start();
     define("APPURL" , "http://localhost/hotel-booking/") ;
 	//thisisto insert images by admins from folder
+	//tthis is  a test
 	define("HOTELSIMAGES", "http://localhost/hotel-booking/admin-panel/hotels-admins/hotel_images");
 	define("ROOMSIMAGES", "http://localhost/hotel-booking/admin-panel/rooms-admins/room_images");
 ?>
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
     <title>Vacation Rental</title>
+	
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
