@@ -1,0 +1,14 @@
+sb-1pobc29986387@personal.example.com
+TqD)3EF8
+
+sb-6ake229127194@business.example.com
+[mtB7L?*
+
+Client Id:
+AVsBj4B1NWnADBgXPl9HhPFwvk-mo2_R5PUkKTmuMaTNew801ng27HpfdvWVFTcMioq1l0umKvC6FgOP
+
+
+secret
+EC0DLzDClrRpv7mIo1Yfm5gbuHN_40Kak7YaX5JBPWrDaRjWhXNOLeVUz4CsXhx-rKDCGzlUrwrowLQ5
+
+https://sandbox.paypal.com
